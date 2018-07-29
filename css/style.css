@@ -1,8 +1,27 @@
-body{
+/*body{
     color: #696969;
     background-color: #FFFFFF;
     word-wrap: break-word;
     font-family: 'Lora', serif;
     line-height: 2;
     font-size: 14px;
+}*/
+
+.f-r{
+	float: right;
+}
+.search{
+	background-image: url(../img/search.png);
+	width: auto;
+	height: auto;
+}
+
+.container{
+	font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0;
+    font-weight: 600;
+    min-height: auto;
+    /*padding: 0px 300px;*/
+    box-shadow: 0 1px #e3e3e3;
+
 }
